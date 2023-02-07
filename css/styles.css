@@ -11,14 +11,13 @@ body {
 h1 {
     color: #66bfbf;
     font-family: 'Sacramento', cursive;
-    font-size: 5.625rem;
+    font-size: 3.625rem;
     margin-bottom: 0px;
-
 }
 h2 {
     color: #66bfbf;
     font-family: 'Montserrat', sans-serif;
-    font-size: 2.5rem;
+    font-size: 1.7rem;
     font-weight: normal;
 }
 h3 {
@@ -34,13 +33,13 @@ h3 {
 }
 #x1 {
     position: absolute;
-    top: 40px;
-    right: 150px;
+    top: 50px;
+    right: 50px;
 }
-#x4 {
+#x2 {
     position: absolute;
-    bottom: 300px;
-    left: 200px;
+    top: 200px;
+    left: 30px;
 }
 
 .profile_image {
@@ -117,6 +116,7 @@ hr {
 .contact-msg {
     width: 40%;
     margin: 40px auto 60px;
+    font-weight: bold;
 } 
 
 .btn:hover {
