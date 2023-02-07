@@ -1,7 +1,7 @@
 
 body {
-    color: #40514e;
-    aabackground-color: #eaf6f6;
+    /* color: #40514e; */
+    background-color: #eaf6f6;
     margin: 8px;
     text-align: center;
     font-family: 'Merriweather Sans', sans-serif;
@@ -9,19 +9,22 @@ body {
 }
 
 h1 {
-    color: #66bfbf;
+    /* color: #66bfbf; */
+    color: #a683e3;
     font-family: 'Sacramento', cursive;
-    font-size: 3.625rem;
+    font-size: 4.625rem;
     margin-bottom: 0px;
 }
 h2 {
-    color: #66bfbf;
+    /* color: #66bfbf; */
+    color: #a683e3;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.7rem;
     font-weight: normal;
 }
 h3 {
-    color: #11999e;
+    /* color: #11999e; */
+    color: #a683e3;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -94,11 +97,12 @@ hr {
 #bottom-container {
     padding: 50px 0 20px;
     background-color: #7bc2c2;
+    /* background-color: #a683e3 */
 }
 .footer-link {
     padding: 10px 20px;
     text-decoration: none;
-    color:#498f8f;
+    color:#275858;
 }
 .footer-link:hover {
     color: #eaf6f6;
@@ -117,6 +121,7 @@ hr {
     width: 40%;
     margin: 40px auto 60px;
     font-weight: bold;
+    color:#585757
 } 
 
 .btn:hover {
@@ -131,8 +136,16 @@ background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     font-size: 1.25rem;
     color: #ffffff;
 }
+
+.bottom1 {
+    color:#11999e
+}
 .copyright {
     padding: 10px 0;
+    color: #49484880;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1.02rem;
 }
 
 
