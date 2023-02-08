@@ -14,7 +14,7 @@ body {
 }
 
 .box {
-    width: 370px;
+    width: 400px;
     margin: 50px auto;
     background-color: #fff;
     padding: 0;
@@ -41,7 +41,7 @@ body {
 
 form {margin-block-end: 0em;}
 
-input[size='25'] {
+input[size='30'] {
     outline: none;
     text-align: center;
     font-size: .95rem;
@@ -50,12 +50,12 @@ input[size='25'] {
 
 }
 
-input[size='25']:focus {
+input[size='30']:focus {
     border-bottom: 2px solid #a683e3;
 }
 
 input[type='submit'] {
-    margin-left: 250px;
+    margin-left: 271px;
     background-color: #a683e3;
     color: #fff;
     font-size: 1rem;
